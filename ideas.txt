@@ -1,0 +1,13 @@
+1. deck of cards: instead of each card game needing it's own app created form zero, 
+we'll create a deck of cards so that developers can easily add new games (by defining the rules
+of new games). just like a real deck of cards - you dont by a different deck for each game - so too
+you'll only ned one platform for all virtual card games.
+
+2. calculator: we'll define the platform (buttons etc.) and the basic mathematical operations that we learned how a computer can preform.
+we'll allow the capability to add buttons that will define new mathematical operations, and the developers will obviously need to define how to perform
+the operation.
+this way we can create a platform that will eventually contain as many operations as possible - 
+even though we only know how to execute a few basic operations.
+
+3. new software language: create a new coding language, that will be comletely open source. this way developers can 
+suggest changes that come up in their day-to-day use - and the language will be relevant for as many developers as possible.
